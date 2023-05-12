@@ -1,5 +1,5 @@
 ## 👋 ¡Hola, bienvenidos! Welcome to my GitHub! 🌱
-### **Stephie Crocker** - _Junior Software Developer_
+### **Stephie Crocker** - _Junior Full Stack Software Developer_
 _she/her_-
 
 📫 **Contact Details:** 
