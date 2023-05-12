@@ -1,4 +1,4 @@
-## Hola! Bienvenidos, welcome to my personal GitHub! 👋
+## 👋 ¡Hola, bienvenidos! Welcome to my personal GitHub! 🌱
 ### **Stephie Crocker** - _Junior Software Developer_
 _she/her_-
 
