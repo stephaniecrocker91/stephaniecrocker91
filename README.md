@@ -1,8 +1,6 @@
 ## Hola! Bienvenidos, welcome to my personal GitHub! 👋
-### **Stephie Crocker** _she/her_- _Junior Software Developer_
-
-**Pronouns:** she/her
-
+### **Stephie Crocker** - _Junior Software Developer_
+_she/her_-
 📫 **Contact Details:** 
 [Linkedin](https://www.linkedin.com/in/stephie-crocker-developer/) | Email: stephaniecrocker91@gmail.com | +44(0)7985510757
 
