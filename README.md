@@ -1,5 +1,5 @@
 ## Hola! Bienvenidos, welcome to my personal GitHub! 👋
-### **Stephie Crocker** - _Junior Software Developer_
+### **Stephie Crocker** _she/her_- _Junior Software Developer_
 
 **Pronouns:** she/her
 
