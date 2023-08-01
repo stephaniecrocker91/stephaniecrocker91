@@ -8,7 +8,7 @@ _she/her_-
 * * *
 
 
-I am a passionate British/Uruguayan bilingual Junior Full Stack Software Developer, additionally pursuing a Bachelor of Science in Computing from Arden University to further enhance knowledge and expertise in the field. I am proficient in HTML, CSS, JavaScript and Python. I just handed in my last project for the DFE fully funded Software Engineer Skills Bootcamp by Hyperion Dev (specialised in Python, SQL, Object Oriented Programming, data & control structures, database programming, algorithms and machine learning. ). Additionaly, I previously graduated from The Code Institute in Full Stack Software Development, with advanced Front End with REACT.  
+I am a passionate British/Uruguayan bilingual Junior Full Stack Software Developer, additionally pursuing a Bachelor of Science in Computing from Arden University to further enhance knowledge and expertise in the field. I am proficient in HTML, CSS, JavaScript and Python. I previously graduated from The Code Institute in Full Stack Software Development, with advanced Front End with REACT, and the DFE fully funded Software Engineer Skills Bootcamp by Hyperion Dev (specialised in Python, SQL, Object Oriented Programming, data & control structures, database programming, algorithms and machine learning. ).
 
 * * *
 
