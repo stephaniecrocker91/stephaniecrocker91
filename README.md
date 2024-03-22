@@ -1,5 +1,5 @@
 ## 👋 ¡Hola, bienvenidos! Welcome to my GitHub! 🌱
-### **Stephie Crocker** - _Junior Full Stack Software Developer_
+### **Stephie Crocker** - _Full Stack Developer_
 _she/her_-
 
 📫 **Contact Details:** 
@@ -8,7 +8,9 @@ _she/her_-
 * * *
 
 
-I am a passionate British/Uruguayan bilingual Junior Full Stack Software Developer, additionally pursuing a Bachelor of Science in Computing from Arden University to further enhance knowledge and expertise in the field. I am proficient in HTML, CSS, JavaScript and Python. I previously graduated from The Code Institute in Full Stack Software Development, with advanced Front End with REACT, and the DFE fully funded Software Engineer Skills Bootcamp by Hyperion Dev (specialised in Python, SQL, Object Oriented Programming, data & control structures, database programming, algorithms and machine learning. ).
+As a passionate bilingual Full Stack Developer of British and Uruguayan descent, I am deeply committed to advancing my expertise in the field of technology. Currently pursuing a Bachelor of Science in Computing from Arden University, I strive to continually enhance my knowledge and skills. My educational journey includes graduating from The Code Institute in Full Stack Software Development, where I specialized in advanced Front End with REACT. Additionally, I completed the DFE fully funded Software Engineer Skills Bootcamp by Hyperion Dev, focusing on Python, SQL, Object-Oriented Programming, data structures, database programming, algorithms, and machine learning.
+
+My practical experience as Web Developer at London Lash Pro provided invaluable opportunities to apply my skills in a real-world setting. Overseeing the management of 13 websites and successfully launching 4 new ones, I honed my expertise in E-commerce. Moreover, I further refined my proficiency in Liquid, jQuery, JavaScript, HTML, and Sass, ensuring robust and efficient web development solutions.
 
 * * *
 
