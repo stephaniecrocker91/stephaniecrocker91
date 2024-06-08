@@ -31,7 +31,7 @@ Through coding, I was able to combine my creativity and discipline. I could crea
 
 ### 🚀 Why I would be a great addition to your team ... 💡
 
-I am a positive and valuable team-player with strong communication and problem solving skills, and an ambition for professional development. I am extremely  commited to my career pivot and eager to break into the tech industry into a strong development team where I can cement and further develop my skills. 
+I am a positive and valuable team-player with strong communication and problem solving skills, and an ambition for professional development. My transition into the tech industry is fuelled by a deep passion for leveraging technology to drive positive change. I firmly believe that software development possesses the unparalleled power to not only innovate industries but also positively impact lives, driving meaningful change in our increasingly digital world. I am extremely commited to my career pivot and eager to immerse myseld into a strong development team where I can cement and further develop my skills. 
 
 * * *
 
