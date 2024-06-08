@@ -1,5 +1,5 @@
 ## 👋 ¡Hola, bienvenidos! Welcome to my GitHub! 🌱
-### **Stephie Crocker** - _Full Stack Developer_
+### **Stephie Crocker** - _Front End Developer_
 _she/her_-
 
 📫 **Contact Details:** 
